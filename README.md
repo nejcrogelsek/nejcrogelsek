@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="nejcrogelsek.si" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="nejcrogelsek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<a href="mailto:nejcrogelsek0@gmail.com"><img align="left" alt="nejcrogelsek | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+[<img align="left" alt="nejcrogelsek.si" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="background-color: #ccc" />][website]
+[<img align="left" alt="nejcrogelsek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="background-color: #ddd" />][linkedin]
+<a href="mailto:nejcrogelsek0@gmail.com"><img align="left" alt="nejcrogelsek | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="background-color: #eee" /></a>
 
 <br />
 
