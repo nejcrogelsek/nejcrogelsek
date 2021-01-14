@@ -37,6 +37,10 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nejcrogelsek)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
