@@ -48,5 +48,9 @@
 
 </details>
 
+---
+
+![Nejc's github stats](https://github-readme-stats.vercel.app/api?username=nejcrogelsek&show_icons=true&theme=radical)
+
 [website]: https://nejcrogelsek.si
 [linkedin]: https://www.linkedin.com/in/nejc-rogel%C5%A1ek-5896b0183/
