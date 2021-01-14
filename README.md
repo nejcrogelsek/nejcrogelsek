@@ -1,6 +1,6 @@
 ### Hi there, I'm [Nejc][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://nejcrogelsek.si)
+[![Website](https://img.shields.io/website?label=nejcrogelsek.si&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://nejcrogelsek.si)
 
 ## I'm a passionate self-taught Full Stack Developer from Slovenia.
 
