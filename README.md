@@ -7,7 +7,6 @@
 - 📚 I’m currently learning React, Javascript, Nodejs and Firebase.
 - 👯 I’m looking to collaborate with other passionate developers.
 - 🥅 2021 Goals: Master React, Complete MERN Stack.
-- ⚡ Fun fact:
 
 ### Connect with me:
 
@@ -47,12 +46,6 @@
   <img align="left" alt="nejcrogelsek's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nejcrogelsek&show_icons=true&hide_border=true" />
 
 </details>
-
----
-
-<a href="https://github.com/nejcrogelsek/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nejcrogelsek&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Nejc's github stats" />
-</a>
 
 [website]: https://nejcrogelsek.si
 [linkedin]: https://www.linkedin.com/in/nejc-rogel%C5%A1ek-5896b0183/
