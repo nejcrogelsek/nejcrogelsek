@@ -2,10 +2,10 @@
 
 [![Website](https://img.shields.io/website?label=nejcrogelsek.si&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://nejcrogelsek.si)
 
-## I'm a passionate self-taught Full Stack Developer from Slovenia.
+## I'm a self-taught Full Stack Developer from Slovenia.
 
 - 📚 I’m currently learning React, Javascript, Nodejs and Firebase.
-- 👯 I’m looking to collaborate with other passionate developers.
+- 💥 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Master React, Complete MERN Stack.
 
 ### Connect with me:
