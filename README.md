@@ -38,15 +38,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nejcrogelsek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-<details>
-
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="nejcrogelsek's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nejcrogelsek&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://nejcrogelsek.si
 [linkedin]: https://www.linkedin.com/in/nejc-rogel%C5%A1ek-5896b0183/
