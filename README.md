@@ -6,7 +6,7 @@
 
 - 📚 I’m currently learning ReactJS/NextJS, Typescript, Express (NestJS), Fastify and Firebase, PostgreSQL & MongoDB.
 - 💥 I’m looking to collaborate with other developers.
-- 🥅 2022 Goals: Master React & types, Complete MERN & PERN Stack.
+- 🥅 2022 Goals: Master React & typescript, Complete MERN & PERN Stack.
 
 ### Connect with me:
 
