@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=nejcrogelsek.si&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://nejcrogelsek.si)
 
-## I'm a self-taught Full Stack Developer from Slovenia.
+## I'm a Full Stack Developer from Slovenia.
 
 - 📚 I’m currently learning ReactJS/NextJS, Typescript, Express (NestJS), Fastify and Firebase, PostgreSQL & MongoDB.
 - 💥 I’m looking to collaborate with other developers.
