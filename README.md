@@ -4,7 +4,7 @@
 
 ## I'm a Full Stack Developer from Slovenia.
 
-- 📚 I’m currently learning ReactJS/NextJS, Typescript, Express (NestJS), Fastify and Firebase, PostgreSQL & MongoDB.
+- 📚 I’m currently learning ReactJS/NextJS, Typescript, Express (NestJS). I'm also learning how to work with AWS & Docker.
 - 💥 I’m looking to collaborate with other developers.
 - 🥅 2022 Goals: Master React & typescript, Complete MERN & PERN Stack.
 
