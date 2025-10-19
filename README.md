@@ -1,6 +1,6 @@
 ### Hi there, I'm [Nejc][website] 👋
 
-[![Website](https://img.shields.io/website?label=nejcrogelsek.si&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://nejcrogelsek.si)
+[![Website](https://img.shields.io/website?label=rogelsek.si&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rogelsek.si)
 
 ## I'm a Full Stack Developer from Slovenia.
 
@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="nejcrogelsek.si" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="rogelsek.si" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="nejcrogelsek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <a href="mailto:nejcrogelsek0@gmail.com"><img align="left" alt="nejcrogelsek | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 
@@ -58,5 +58,5 @@
 ![Nejc Rogelšek GitHub stats](https://github-readme-stats.vercel.app/api?username=nejcrogelsek&show_icons=true&theme=prussian)
 
 
-[website]: https://nejcrogelsek.si
+[website]: https://rogelsek.si
 [linkedin]: https://www.linkedin.com/in/nejc-rogel%C5%A1ek-5896b0183/
