@@ -14,8 +14,6 @@ If you're building something interesting — feel free to connect or collaborate
 
 <img align="left" alt="nejcrogelsek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> *https://www.linkedin.com/in/nejcrogelsek/*
 
-<img align="left" alt="rogelsek.si" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> *https://rogelsek.si/*
-
 <img align="left" alt="nejcrogelsek | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> *<a href="mailto:nejcrogelsek0@gmail.com">nejcrogelsek0@gmail.com</a>*
 
 ---
